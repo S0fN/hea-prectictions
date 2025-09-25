@@ -248,7 +248,7 @@ def main():
 
     with st.form("recipe_form"):
         goal_prompt = st.text_input("Describe the desired properties of your alloy", "A tough, corrosion-resistant coating for steel parts")
-        selected_metals = st.multiselect("Choose your initial 5 metals.", options=platable_metals, default=['Cd', 'Co', 'Fe', 'Ni', 'Pb'], max_selections=5)
+        selected_metals = st.multiselect("Choose your initial 5 metals.", options=platable_metals, max_selections=5)
         submit_button = st.form_submit_button("Generate Optimal Recipe")
 
     if submit_button:
