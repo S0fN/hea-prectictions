@@ -1,6 +1,6 @@
 # Dockerfile
 
-# 1. Use a standard, slim Python base image
+# 1. Use an updated Python base image
 FROM python:3.11-slim
 
 # 2. Install your required system library
@@ -21,7 +21,6 @@ COPY . .
 # 6. Expose the port Railway will use. This is good practice.
 EXPOSE 8080
 
-# 7. Define the command to run your app.
-# This replaces the "Custom Start Command" from the UI.
-# It uses the exact command you provided.
-CMD [ "streamlit", "run", "app.py", "--server.port", "$PORT", "--server.enableCORS", "false", "--server.enableXsrfProtection", "false" ]
+# 7. Define the command to run your app using the "shell form"
+# This correctly processes the $PORT environment variable.
+CMD streamlit run app.py --server.port $PORT --server.enableCORS false --server.enableXsrfProtection false
