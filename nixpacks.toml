@@ -1,0 +1,5 @@
+# nixpacks.toml
+
+[phases.setup]
+# A list of Ubuntu packages to install
+aptPkgs = ['libgomp1']
