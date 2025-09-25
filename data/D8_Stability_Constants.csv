@@ -1,0 +1,13 @@
+Metal,Ligand,log_beta,Stoichiometry_m,Notes,Source
+Cu,Citrate,6.1,1,"Log stability constant for Cu(citrate)- complex at neutral pH, 1:1",NIST Standard Reference Database 46
+Cu,EDTA,18.8,1,"Very strong complex, Log stability constant for Cu(EDTA)2-",NIST Standard Reference Database 46
+Ni,Citrate,5.1,1,Log stability constant for Ni(citrate)- complex,NIST Standard Reference Database 46
+Ni,EDTA,18.6,1,Log stability constant for Ni(EDTA)2-,NIST Standard Reference Database 46
+Co,Citrate,4.8,1,Log stability constant for Co(citrate)- complex,NIST Standard Reference Database 46
+Co,EDTA,16.3,1,Log stability constant for Co(EDTA)2-,NIST Standard Reference Database 46
+Fe,Citrate,4.4,1,Fe(II) citrate complex,NIST Standard Reference Database 46
+Fe,EDTA,14.3,1,Fe(II)-EDTA complex,NIST Standard Reference Database 46
+Zn,Citrate,4.9,1,Log stability constant for Zn(citrate)- complex,NIST Standard Reference Database 46
+Zn,EDTA,16.5,1,Log stability constant for Zn(EDTA)2-,NIST Standard Reference Database 46
+Ag,Thiosulfate,13.47,2,Log stability constant for Ag(S2O3)2^3- complex,NIST Standard Reference Database 46
+Au,Cyanide,38.3,2,Log stability constant for Au(CN)2- complex,NIST Standard Reference Database 46

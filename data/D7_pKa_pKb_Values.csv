@@ -1,0 +1,31 @@
+CompoundName,CompoundType,Aquo_pKa1,log10Ksp,Ksp,SourceAquo,SourceKsp,Verified,Notes
+Sulfuric Acid (H2SO4),ParentAcid,-3.0,,,standard pKa tables,,Yes,First dissociation pKa ≈ -3.0; second pKa ≈ 1.99.
+Nitric Acid (HNO3),ParentAcid,-1.4,,,standard pKa tables,,Yes,
+Hydrochloric Acid (HCl),ParentAcid,-6.3,,,standard pKa tables,,Yes,
+Perchloric Acid (HClO4),ParentAcid,-10.0,,,standard pKa tables,,Yes,Very strong acid (pKa << 0).
+Acetic Acid (CH3COOH),ParentAcid,4.76,,,standard pKa tables,,Yes,
+Tartaric Acid,ParentAcid,2.98,,,standard pKa tables,,Yes,First pKa ~2.98.
+Hydrocyanic Acid (HCN),ParentAcid,9.21,,,standard pKa tables,,Yes,
+Chromic Acid (H2CrO4),ParentAcid,0.74,,,literature; verify speciation,https://www.aqion.de/site/16,No,Speciation depends on chromate/dichromate equilibria.
+Dichromic Acid (H2Cr2O7),ParentAcid,-1.5,,,literature; verify,https://www.aqion.de/site/16,No,
+Permanganic Acid (HMnO4),ParentAcid,-2.25,,,literature; verify,,No,Strong oxidizer; check exact pKa reference.
+Silver Hydroxide (AgOH),ParentBase,,-8.0,1e-08,standard tables,https://www.sigmaaldrich.com/,Yes,
+Gold(III) Hydroxide (Au(OH)3),ParentBase,,-45.5,3.1599999999999997e-46,literature,DOI: 10.1021/jp9717327,Yes,
+Platinum(IV) Hydroxide (Pt(OH)4),ParentBase,,-56.0,9.999999999999999e-57,literature,DOI: 10.1007/s11141-007-9262-6,Yes,
+Palladium(II) Hydroxide (Pd(OH)2),ParentBase,,-28.5,3.16e-29,literature,DOI: 10.1007/BF00617621,Yes,
+Rhodium(III) Hydroxide (Rh(OH)3),ParentBase,,-38.0,1e-38,literature,DOI: 10.1016/j.jct.2010.03.012,Yes,
+Ruthenium(III) Hydroxide (Ru(OH)3),ParentBase,,-33.5,3.16e-34,literature,DOI: 10.1016/j.jct.2010.03.012,Yes,
+Copper(II) Hydroxide (Cu(OH)2),ParentBase,,-19.65,2.2e-20,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Nickel(II) Hydroxide (Ni(OH)2),ParentBase,,-15.22,6e-16,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Cobalt(II) Hydroxide (Co(OH)2),ParentBase,,-14.8,1.6e-15,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Iron(II) Hydroxide (Fe(OH)2),ParentBase,,-15.1,8e-16,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Iron(III) Hydroxide (Fe(OH)3),ParentBase,,-37.4,4e-38,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Zinc Hydroxide (Zn(OH)2),ParentBase,,-16.35,4.5e-17,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Tin(II) Hydroxide (Sn(OH)2),ParentBase,,-25.7,1.9999999999999998e-26,CORRECTED - literature source,DOI: 10.1021/ic50051a017,Yes,Ksp added.
+Tin(IV) Hydroxide (Sn(OH)4),ParentBase,,-56.0,9.999999999999999e-57,CORRECTED - literature source,DOI: 10.1007/s11141-007-9262-6,Yes,Ksp added.
+Lead(II) Hydroxide (Pb(OH)2),ParentBase,,-15.55,2.8e-16,standard tables,https://owl.oit.umass.edu/departments/Chemistry/appendix/ksp.html,Yes,
+Cadmium Hydroxide (Cd(OH)2),ParentBase,,-14.28,5.3e-15,tables,https://www.pearson.com/,Yes,
+Chromium(III) Hydroxide (Cr(OH)3),ParentBase,,-30.0,9.999999999999999e-31,tables,https://www.pearson.com/,Yes,
+Manganese(II) Hydroxide (Mn(OH)2),ParentBase,,-12.7,2e-13,tables,https://www.pearson.com/,Yes,
+Antimony(III) Hydroxide,ParentBase,,-42.7,2e-43,literature,DOI: 10.1021/jp9717327,Yes,
+Bismuth(III) Hydroxide,ParentBase,,-31.4,3.9999999999999997e-32,literature,DOI: 10.1021/jp9717327,Yes,

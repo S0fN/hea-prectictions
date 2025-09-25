@@ -1,0 +1,49 @@
+index,Metal,SaltFormula,Anion,Solubility_g_per_100mL,E0_V_vs_SHE,SaltNature,ParentAcid,ParentBase,Notes,n_electrons
+0,Ag,AgNO3,NO3,122.0,0.8,Acidic,Nitric Acid (HNO3),Silver Hydroxide (AgOH),,1
+1,Ag,AgClO4,ClO4,209.0,0.8,Acidic,Perchloric Acid (HClO4),Silver Hydroxide (AgOH),,1
+2,Ag,AgCH3COO,CH3COO,1.02,0.8,Acidic,Acetic Acid (CH3COOH),Silver Hydroxide (AgOH),,1
+3,Au,HAuCl4,Cl,200.0,1.0,Acidic,Hydrochloric Acid (HCl),Gold(III) Hydroxide (Au(OH)3),Solubility set to 200 as approx for 'very soluble',3
+4,Au,K[Au(CN)2],CN,25.0,1.83,Basic,Hydrocyanic Acid (HCN),Potassium Hydroxide (KOH),CORRECTED E0 to Au+/Au standard potential,1
+5,Pt,H2PtCl6,Cl,50.0,0.68,Acidic,Hydrochloric Acid (HCl),Platinum(IV) Hydroxide (Pt(OH)4),,4
+6,Pt,K2PtCl4,Cl,3.3,0.76,Acidic,Hydrochloric Acid (HCl),Platinum(IV) Hydroxide (Pt(OH)4),,2
+7,Pd,Na2PdCl4,Cl,60.0,0.59,Acidic,Hydrochloric Acid (HCl),Palladium(II) Hydroxide (Pd(OH)2),,2
+8,Pd,Pd(NO3)2,NO3,70.0,0.95,Acidic,Nitric Acid (HNO3),Palladium(II) Hydroxide (Pd(OH)2),,2
+9,Rh,RhCl3·3H2O,Cl,10.0,0.44,Acidic,Hydrochloric Acid (HCl),Rhodium(III) Hydroxide (Rh(OH)3),,3
+10,Ru,RuCl3·xH2O,Cl,50.0,0.3,Acidic,Hydrochloric Acid (HCl),Ruthenium(III) Hydroxide (Ru(OH)3),Solubility set to 50 as approx for 'soluble',3
+11,Cu,CuSO4·5H2O,SO4,23.0,0.34,Acidic,Sulfuric Acid (H2SO4),Copper(II) Hydroxide (Cu(OH)2),,2
+12,Cu,Cu(NO3)2·3H2O,NO3,125.0,0.34,Acidic,Nitric Acid (HNO3),Copper(II) Hydroxide (Cu(OH)2),,2
+13,Cu,CuCl2·2H2O,Cl,75.0,0.34,Acidic,Hydrochloric Acid (HCl),Copper(II) Hydroxide (Cu(OH)2),,2
+14,Cu,Cu(CH3COO)2·H2O,CH3COO,7.2,0.34,Amphoteric,Acetic Acid (CH3COOH),Copper(II) Hydroxide (Cu(OH)2),,2
+15,Ni,NiSO4·6H2O,SO4,29.0,-0.25,Acidic,Sulfuric Acid (H2SO4),Nickel(II) Hydroxide (Ni(OH)2),,2
+16,Ni,Ni(NO3)2·6H2O,NO3,94.0,-0.25,Acidic,Nitric Acid (HNO3),Nickel(II) Hydroxide (Ni(OH)2),,2
+17,Ni,NiCl2·6H2O,Cl,254.0,-0.25,Acidic,Hydrochloric Acid (HCl),Nickel(II) Hydroxide (Ni(OH)2),,2
+18,Ni,Ni(CH3COO)2·4H2O,CH3COO,17.0,-0.25,Amphoteric,Acetic Acid (CH3COOH),Nickel(II) Hydroxide (Ni(OH)2),,2
+19,Co,CoCl2·6H2O,Cl,45.0,-0.28,Acidic,Hydrochloric Acid (HCl),Cobalt(II) Hydroxide (Co(OH)2),,2
+20,Co,Co(NO3)2·6H2O,NO3,134.0,-0.28,Acidic,Nitric Acid (HNO3),Cobalt(II) Hydroxide (Co(OH)2),,2
+21,Co,CoSO4·7H2O,SO4,36.0,-0.28,Acidic,Sulfuric Acid (H2SO4),Cobalt(II) Hydroxide (Co(OH)2),,2
+22,Co,Co(CH3COO)2·4H2O,CH3COO,23.0,-0.28,Amphoteric,Acetic Acid (CH3COOH),Cobalt(II) Hydroxide (Co(OH)2),,2
+23,Fe,FeSO4·7H2O,SO4,26.6,-0.44,Acidic,Sulfuric Acid (H2SO4),Iron(II) Hydroxide (Fe(OH)2),,2
+24,Fe,FeCl3·6H2O,Cl,92.0,-0.04,Acidic,Hydrochloric Acid (HCl),Iron(III) Hydroxide (Fe(OH)3),,3
+25,Fe,Fe(NO3)3·9H2O,NO3,138.0,-0.04,Acidic,Nitric Acid (HNO3),Iron(III) Hydroxide (Fe(OH)3),,3
+26,Zn,ZnSO4·7H2O,SO4,57.7,-0.76,Acidic,Sulfuric Acid (H2SO4),Zinc Hydroxide (Zn(OH)2),,2
+27,Zn,Zn(NO3)2·6H2O,NO3,184.3,-0.76,Acidic,Nitric Acid (HNO3),Zinc Hydroxide (Zn(OH)2),,2
+28,Zn,ZnCl2,Cl,432.0,-0.76,Acidic,Hydrochloric Acid (HCl),Zinc Hydroxide (Zn(OH)2),,2
+29,Zn,Zn(CH3COO)2·2H2O,CH3COO,43.0,-0.76,Amphoteric,Acetic Acid (CH3COOH),Zinc Hydroxide (Zn(OH)2),,2
+30,Sn,SnCl2·2H2O,Cl,83.9,-0.14,Acidic,Hydrochloric Acid (HCl),Tin(II) Hydroxide (Sn(OH)2),,2
+31,Sn,SnSO4,SO4,35.6,-0.14,Acidic,Sulfuric Acid (H2SO4),Tin(II) Hydroxide (Sn(OH)2),,2
+32,Sn,SnCl4·5H2O,Cl,200.0,0.15,Acidic,Hydrochloric Acid (HCl),Tin(IV) Hydroxide (Sn(OH)4),Solubility set to 200 as approx for 'soluble',4
+33,Pb,Pb(NO3)2,NO3,56.5,-0.13,Acidic,Nitric Acid (HNO3),Lead(II) Hydroxide (Pb(OH)2),,2
+34,Pb,Pb(CH3COO)2·3H2O,CH3COO,44.3,-0.13,Amphoteric,Acetic Acid (CH3COOH),Lead(II) Hydroxide (Pb(OH)2),,2
+35,Pb,Pb(ClO4)2·3H2O,ClO4,478.0,-0.13,Acidic,Perchloric Acid (HClO4),Lead(II) Hydroxide (Pb(OH)2),,2
+36,Sb,Sb2(SO4)3,SO4,100.0,0.2,Acidic,Sulfuric Acid (H2SO4),Antimony(III) Hydroxide,Solubility set to 100 as approx for 'soluble',3
+37,Bi,Bi(NO3)3·5H2O,NO3,200.0,0.32,Acidic,Nitric Acid (HNO3),Bismuth(III) Hydroxide,Solubility set to 200 as approx for 'soluble',3
+38,Cd,CdSO4,SO4,76.7,-0.4,Acidic,Sulfuric Acid (H2SO4),Cadmium Hydroxide (Cd(OH)2),,2
+39,Cd,Cd(NO3)2·4H2O,NO3,109.7,-0.4,Acidic,Nitric Acid (HNO3),Cadmium Hydroxide (Cd(OH)2),,2
+40,Cd,Cd(CH3COO)2·2H2O,CH3COO,38.6,-0.4,Amphoteric,Acetic Acid (CH3COOH),Cadmium Hydroxide (Cd(OH)2),,2
+41,Cr,CrCl3·6H2O,Cl,64.0,-0.74,Acidic,Hydrochloric Acid (HCl),Chromium(III) Hydroxide (Cr(OH)3),,3
+42,Cr,Cr(NO3)3·9H2O,NO3,86.0,-0.74,Acidic,Nitric Acid (HNO3),Chromium(III) Hydroxide (Cr(OH)3),,3
+43,Cr,Na2CrO4,CrO4,87.0,-0.13,Basic,Chromic Acid (H2CrO4),Sodium Hydroxide (NaOH),,6
+44,Cr,K2Cr2O7,Cr2O7,12.6,1.33,Basic,Dichromic Acid (H2Cr2O7),Potassium Hydroxide (KOH),,6
+45,Mn,MnSO4·H2O,SO4,70.0,-1.18,Acidic,Sulfuric Acid (H2SO4),Manganese(II) Hydroxide (Mn(OH)2),,2
+46,Mn,MnCl2·4H2O,Cl,72.0,-1.18,Acidic,Hydrochloric Acid (HCl),Manganese(II) Hydroxide (Mn(OH)2),,2
+47,Mn,Mn(NO3)2·4H2O,NO3,140.0,-1.18,Acidic,Nitric Acid (HNO3),Manganese(II) Hydroxide (Mn(OH)2),,2
