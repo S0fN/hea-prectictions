@@ -69,7 +69,7 @@ def find_best_fallback_combination(failed_metals, success_df):
 # --- Core Functions (LLM Calls, Search, Validation) ---
 def call_llm_for_report(recipe_data, metals, user_goal):
     st.info("Generating final analysis report...", icon="🤖")
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash')
     prompt_recipe = recipe_data.copy()
     keys_to_remove = [k for k in prompt_recipe.keys() if 'prob' in k or 'predicted' in k or 'metal_' in k or 'anion_' in k or 'ligand_' in k or 'actual_delta_E' in k]
     for key in keys_to_remove: prompt_recipe.pop(key, None)
