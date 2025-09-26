@@ -14,7 +14,7 @@ import google.generativeai as genai
 st.set_page_config(page_title="HEA Recipe Optimizer", page_icon="🧪", layout="wide")
 load_dotenv()
 try:
-    GEMINI_API_KEY = "AIzaSyCLHiCslNtIL9l4Mbyitv4BatOjQ8hf1vw"
+    GEMINI_API_KEY = "AIzaSyA_crXkTaXif25kWq9tn86rTEkb432O_fs"
     if not GEMINI_API_KEY: raise ValueError("GEMINI_API_KEY not found.")
     genai.configure(api_key=GEMINI_API_KEY)
 except Exception as e:
